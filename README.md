@@ -30,3 +30,8 @@ From Wikipedia, the free encyclopedia
 The Chain of Responsibility [2] design pattern is one of the twenty-three well-known GoF design patterns that describe common solutions to recurring design problems when
 designing flexible and reusable object-oriented software, that is, objects that are easier to implement, change, test, and reuse.
 
+## Diagram Structure
+
+<img src="diagramChain.png" alt="diagram chain of responsibility pattern">
+
+
