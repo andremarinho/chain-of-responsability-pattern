@@ -34,6 +34,6 @@ designing flexible and reusable object-oriented software, that is, objects that 
 
 <img src="diagramChain.jpg" alt="diagram chain of responsibility pattern">
 
-<img src="chain.jpg" alt="diagram chain of responsibility pattern">
+<img src="chain.png" alt="diagram chain of responsibility pattern">
 
 
